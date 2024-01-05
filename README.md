@@ -5,9 +5,10 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5588996015972)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/programador_afobado?igshid=ZDdkNTZiNTM=)
 
-![Francilino Neto GitHub stats](https://github-readme-stats.vercel.app/api?username=Francilino-Netoo&show_icons=true&theme=radical)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francilino-Netoo&layout=compact)
+<div>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Francilino-Netoo&show_icons=true&theme=radical" />
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francilino-Netoo&layout=compact&theme=radical" />
+</div><br/>
 ## 👨🏻‍💻 Tecnologias que uso no meu dia a dia 👨🏻‍💻
 
 <div style="display: inline_block"><br/>
