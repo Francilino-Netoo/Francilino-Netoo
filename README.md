@@ -24,4 +24,3 @@
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </div><br/>
 
-Sou apixonado por tecnologia 😄! Principalmente por Automação Web 😅
