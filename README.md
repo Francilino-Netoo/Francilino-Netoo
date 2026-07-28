@@ -22,22 +22,6 @@ Atualmente meu foco está em:
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Francilino-Netoo&theme=radical"
-    width="48%"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Francilino-Netoo&theme=radical"
-    width="48%"
-  />
-</p>
-
----
-
 ## 💻 Stack Principal
 
 ### Front-end
