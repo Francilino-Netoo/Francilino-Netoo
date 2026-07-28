@@ -36,18 +36,6 @@ Atualmente meu foco está em:
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Francilino-Netoo&theme=radical"
-    width="48%"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Francilino-Netoo&theme=radical&utcOffset=-3"
-    width="48%"
-  />
-</p>
-
 ---
 
 ## 💻 Stack Principal
