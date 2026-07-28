@@ -26,30 +26,6 @@ Atualmente meu foco está em:
 
 <p align="center">
   <img
-    height="180"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Francilino-Netoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Francilino-Netoo&layout=compact&langs_count=8&theme=radical"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Francilino-Netoo&theme=radical&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Francilino-Netoo&theme=radical"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Francilino-Netoo&theme=radical"
     width="48%"
   />
