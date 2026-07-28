@@ -24,10 +24,16 @@ Atualmente meu foco está em:
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Francilino-Netoo&show_icons=true&theme=radical&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francilino-Netoo&layout=compact&theme=radical"/>
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Francilino-Netoo&show_icons=true&theme=radical"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francilino-Netoo&layout=compact&theme=radical"
+    height="180"
+  />
+</p>
 
 ---
 
