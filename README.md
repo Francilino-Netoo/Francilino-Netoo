@@ -1,84 +1,130 @@
-# 👋 Olá, eu sou Francilino Neto
+<h1 align="center">Olá, eu sou Francilino Neto 👋</h1>
 
-### 🚀 Full Stack Developer | Python • React • Automação • SaaS
+<h3 align="center">
+Full Stack Developer • Python • React • Automação • SaaS
+</h3>
 
-Desenvolvedor Full Stack apaixonado por criar plataformas SaaS, sistemas de automação e aplicações escaláveis.
+<p align="center">
+Desenvolvedor apaixonado por construir plataformas SaaS, automações inteligentes e aplicações escaláveis.
+</p>
 
-Atualmente meu foco está em:
+<p align="center">
+<a href="https://www.linkedin.com/in/francilino-neto/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- ⚡ Desenvolvimento Web com React.js
-- 🐍 Back-end com Python
-- 🤖 Automação de processos
+<a href="https://t.me/Automa_Web">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/automa_web_dev">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Sobre mim
+
+- 💻 Desenvolvedor Full Stack
+- 🐍 Especialista em Python
+- ⚛️ Front-end com React.js
+- 🤖 Automação de Processos
 - ☁️ Arquitetura SaaS Multi-Tenant
-- 📊 Integrações, APIs e Web Scraping
+- 📡 APIs • Bots • Web Scraping • Integrações
+- 🚀 Sempre buscando construir soluções escaláveis
 
 ---
 
-## 🌐 Redes Sociais
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francilino-neto/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Automa_Web)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/automa_web_dev)
-
----
-
-## 💻 Stack Principal
+# 💻 Tecnologias
 
 ### Front-end
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
+
 </p>
 
 ### Back-end
 
 <p>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,flask" />
+
 </p>
 
 ### Banco de Dados
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+
+</p>
+
+### Ferramentas
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+
 </p>
 
 ---
 
-## 🚀 Principais Projetos
-
-### 🤖 Plataforma SaaS White Label
-Sistema completo para criação de automações via Telegram, com arquitetura multi-tenant e painel administrativo.
-
-### 📊 Automa Data Engine
-Motor de coleta e processamento de dados em tempo real utilizando Python, Redis e processamento assíncrono.
-
-### 🔥 Sistemas de Automação
-Desenvolvimento de bots, integrações com APIs, Web Scraping, Playwright, Selenium e soluções personalizadas.
-
----
-
-## 📈 GitHub
+# 📊 GitHub
 
 <p align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Francilino-Netoo&theme=radical)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Francilino-Netoo&theme=radical"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Francilino-Netoo&theme=radical"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Francilino-Netoo&theme=radical"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Francilino-Netoo&theme=radical"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Francilino-Netoo&theme=radical&utcOffset=-3"/>
 
 </p>
 
 ---
 
-## 📫 Contato
+# 🚀 Projetos
 
-💼 LinkedIn: https://www.linkedin.com/in/francilino-neto/
+## 🤖 Plataforma SaaS White Label
 
-📨 Telegram:
+Sistema para criação de automações via Telegram com arquitetura Multi-Tenant.
+
+---
+
+## 📊 Automa Data Engine
+
+Motor de coleta e processamento de dados em tempo real utilizando Python e processamento assíncrono.
+
+---
+
+## 🔥 Sistemas de Automação
+
+Bots, integrações, APIs, Web Scraping, Playwright e soluções personalizadas.
+
+---
+
+# 📫 Contato
+
+📧 **LinkedIn**
+https://www.linkedin.com/in/francilino-neto/
+
+📨 **Telegram**
 https://t.me/Automa_Web
 
-⭐ Se algum projeto foi útil para você, deixe uma estrela!
+⭐ Se algum projeto foi útil para você, deixe uma estrela no repositório!
