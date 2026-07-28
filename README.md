@@ -91,6 +91,6 @@ Desenvolvimento de bots, integrações com APIs, Web Scraping, Playwright, Selen
 💼 LinkedIn: https://www.linkedin.com/in/francilino-neto/
 
 📨 Telegram:
-https://t.me/Python_Java_JavaScript
+https://t.me/Automa_Web
 
 ⭐ Se algum projeto foi útil para você, deixe uma estrela!
